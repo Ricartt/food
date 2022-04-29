@@ -1,4 +1,4 @@
-"""Programa que pega alguns dados do cliente e da a ele um desnconto da comida favorita dele"""
+"""Programa que pega alguns dados do cliente e da a ele um desconto na comida favorita dele"""
 import random
 
 desconto = random.randint(10, 100)
